@@ -36,3 +36,13 @@
 # bind \"BACKSPACE\" \"exec hk_logic/hk_init.cfg\"
 # " > hk_logic/$x.cfg
 # done
+
+# while read p; do
+#    echo "/////////////////////////////////////////////
+# //  This file is for hero specific         //
+# //  keybinds. Add any binds below.         //
+# /////////////////////////////////////////////
+#
+# // This is the file for ${p^}
+# " > hk_binds/$p.cfg
+# done <herolist.txt

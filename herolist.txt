@@ -38,7 +38,7 @@ io
 jakiro
 juggernaut
 keeperofthelight
-kunnka
+kunkka
 legioncommander
 leshrac
 lich
