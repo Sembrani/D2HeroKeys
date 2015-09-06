@@ -6,7 +6,8 @@ The commands for binding keys to hero fumctions have been simplified with certai
 ### Prefixes
 1. normal - This specifies the regular casting of a spell / item
 2. quick - This specifies the quick-casting of a spell / item
-2. self - This specifies the self-casting of a spell / item
+3. self - This specifies the self-casting of a spell / item
+4. autocast - Toggles the autocast status of a skill such as Drow's Frost arrows
 
 ### Type
 1. item
