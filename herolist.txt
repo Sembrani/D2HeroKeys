@@ -2,6 +2,7 @@ abaddon
 alchemist
 ancientapparition
 antimage
+arcwarden
 axe
 bane
 batrider
